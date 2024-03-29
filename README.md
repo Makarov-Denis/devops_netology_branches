@@ -1,4 +1,4 @@
-# Домашнее задание к занятию «Ветвления в Git» - Михалёв Сергей
+# Домашнее задание к занятию «Ветвления в Git» - "Макаров Денис" 
 
 ### Цель задания
 
@@ -126,7 +126,7 @@ echo "====="
 **Решение**
 
 Промежуточный итог: </br>
-![Промежуточный итог](images/Task_1.png)
+![grafh](https://github.com/Makarov-Denis/devops_netology_branches/assets/148921246/14fc1cab-da40-4f65-8f04-4f029330acf6)
 
 #### Merge
 
@@ -147,7 +147,8 @@ Total 1 (delta 0), reused 0 (delta 0), pack-reused 0
 
 **В результате получаем такую схему:**
   
-![Первый мерж](images/Task_2.png)
+![grafh2](https://github.com/Makarov-Denis/devops_netology_branches/assets/148921246/c871267b-3fb3-4e46-8da4-0d4ccddc3578)
+
 
 #### Rebase
 
@@ -269,9 +270,13 @@ Fast-forward
 **Решение**
 
 Network graph:</br>
-![Промежуточный итог](images/Task_3.png)
+
+![grafh3](https://github.com/Makarov-Denis/devops_netology_branches/assets/148921246/f676b6e0-4a37-47a5-9b5a-63d17923c3f3)
+
 
 git log:</br>
-![Промежуточный итог](images/Task_3_1.png)
+
+![image](https://github.com/Makarov-Denis/devops_netology_branches/assets/148921246/9dc1c298-9485-46d0-b836-52ef2c1562ab)
+
  
 ----
